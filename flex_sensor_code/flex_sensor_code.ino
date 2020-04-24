@@ -64,8 +64,8 @@ void loop() {
   display.setTextSize(2); // Draw 2X-scale text
   display.setTextColor(WHITE);
   display.setCursor(0, 0);
-  display.print(F("FSR: "));
-  display.setCursor(60, 0);
+  display.print(F("Value: "));
+  display.setCursor(80, 0); // MIGHT NEED TO PLAY WITH THIS
   display.print(flexValueMapped);
   display.display();      // Show initial text
 
