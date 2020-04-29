@@ -3,7 +3,7 @@ Prototype for Emergency Airway Ventilation Training Device
 
 # Hardware Assembly Guide
 
-The components can be ordered online from any place like Adafruit, Mouse, DigiKey, Amazon, etc. The estimate total price is ~$33,
+The components can be ordered online from any place like Adafruit, Mouse, DigiKey, Amazon, etc. The estimate total price is ~$35,
 which is broken down as follows:
 
 Metro Mini ~$12 
@@ -16,7 +16,9 @@ Breadboard ~$3
 
 Jumper wires ~$1
 
-Balloons and tube ~$2
+Balloons ~$2 
+
+Tube ~$2
 
 USB cable ~$2
 
