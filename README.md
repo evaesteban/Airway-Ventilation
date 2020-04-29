@@ -7,12 +7,19 @@ The components can be ordered online from any place like Adafruit, Mouse, DigiKe
 which is broken down as follows:
 
 Metro Mini ~$12 
+
 Flex sensor ~$8 
+
 Display ~$5
+
 Breadboard ~$3
+
 Jumper wires ~$1
+
 Balloons and tube ~$2
+
 USB cable ~$2
+
 Resistors ~$0.30
 
 
