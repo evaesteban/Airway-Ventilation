@@ -54,18 +54,18 @@ void loop() {
   // clear display
   display.clearDisplay();
 
-  // read FSR sensor value
+  // read flex sensor value
   flexValue = analogRead(flexPin);
 
-  // map FSR sensor value to range 0-255
+  // map flex sensor value to range 0-255, change if needed
   flexValueMapped = map(flexValue, 0, 1023, 0, 255);
 
-  // display mapped FSR sensor value
+  // display mapped flex sensor value
   display.setTextSize(2); // Draw 2X-scale text
   display.setTextColor(WHITE);
   display.setCursor(0, 0);
   display.print(F("Value: "));
-  display.setCursor(80, 0); // MIGHT NEED TO PLAY WITH THIS
+  display.setCursor(80, 0); 
   display.print(flexValueMapped);
   display.display();      // Show initial text
 
