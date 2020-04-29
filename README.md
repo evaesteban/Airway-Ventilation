@@ -3,6 +3,18 @@ Prototype for Emergency Airway Ventilation Training Device
 
 # Hardware Assembly Guide
 
+The components can be ordered online from any place like Adafruit, Mouse, DigiKey, etc. The estimate total price is approximately $33,
+which is broken down as follows:
+
+Metro Mini $12 
+Flex sensor $8 
+Display $5
+Breadboard $3
+Jumper wires, balloons, tube $2 
+USB cable $2
+Resistors $0.30
+
+
 # Software Assembly Guide
 
 The first step is to download the Arduino IDE, which can be found on https://www.arduino.cc/en/main/software
