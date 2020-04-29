@@ -15,7 +15,7 @@ Download the flex_sensor_code folder from this repository and open it using the 
 
 ![](loaded_arduino_pic.png)
 
-Connect the Arduino to the computer using a USB cable. Make sure the right Board and Port is selected by clicking on Tools. Next, 
+Connect the Arduino to the computer using a USB cable. Make sure the right Board and Port options are selected by clicking on Tools. Next, 
 click on Upload and wait for the code to be uploaded to the Arduino. 
 
 You're all set now, great job!
