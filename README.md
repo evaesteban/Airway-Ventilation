@@ -19,4 +19,3 @@ Connect the Arduino to the computer using a USB cable. Make sure the right Board
 click on Upload and wait for the code to be uploaded to the Arduino. 
 
 You're all set now, great job!
-
