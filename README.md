@@ -3,7 +3,7 @@ Prototype for Emergency Airway Ventilation Training Device
 
 # Hardware Assembly Guide
 
-To be completed by 12th April
+[To be completed by 12th April 11:59 PM]
 
 # Hardware Cost 
 
