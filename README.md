@@ -3,6 +3,10 @@ Prototype for Emergency Airway Ventilation Training Device
 
 # Hardware Assembly Guide
 
+To be completed by 12th April
+
+# Hardware Cost 
+
 The components can be ordered online from any place like Adafruit, Mouse, DigiKey, Amazon, etc. The estimate total price is ~$35,
 which is broken down as follows:
 
