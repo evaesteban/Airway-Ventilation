@@ -4,15 +4,26 @@ Prototype for Emergency Airway Ventilation Training Device
 # Hardware Assembly Guide
 
 #### STEP 1: Set up a breadboard with Arduino
-![](./img/arduino.jpeg)
+
+<p align="center">
+  <img src="./img/arduino.jpeg" width="70%"/>
+</p>
+
 The red rail is connected to the +5V pin of the Metro Mini, and the blue rail is connected to the GND pin.
 
 #### STEP 2: Connect the flex sensor
-![](./img/flex.jpeg)
+
+<p align="center">
+  <img src="./img/flex.jpeg" width="70%"/>
+</p>
+
 One pin of the flex sensor is connected to the A0 pin, and the other to +5V (the red rail). Add a resistor in between. 
 
 #### STEP 3: Hook the graphic display
-![](./img/display.jpeg)
+<p align="center">
+  <img src="./img/display.jpeg" width="70%"/>
+</p>
+
 Now let's connect the OLED display. Hook:
 
 * GND to ground (the blue rail)
@@ -21,10 +32,15 @@ Now let's connect the OLED display. Hook:
 * SCL to A5
 
 #### STEP 4: Plug in the circuits
-![](./img/full1.jpeg)
+<p align="center">
+  <img src="./img/full1.jpeg" width="70%"/>
+</p>
+
 Connect the Arduino to your computer using the USB cable. And stick the sensor to the balloon (or whatever you are measuring).
 
-![](./img/full2.jpeg)
+<p align="center">
+  <img src="./img/full2.jpeg" width="70%"/>
+</p>
 
 Now you have finished connecting the circuits and can turn to the below Software Assembly Guide to upload code to your Arduino. It should be ready to go!
 
